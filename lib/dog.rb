@@ -33,7 +33,4 @@ class Dog
     
   end
   
-  fido = Dog.new("Fido")
-  pepper = Dog.new("Pepper")
   
-  puts fido.name
