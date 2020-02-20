@@ -30,7 +30,7 @@ class Dog
   def self.save
      @@all << self
     end
-    @@all
+    
   end
   
   fido = Dog.new("Fido")
